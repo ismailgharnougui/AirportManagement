@@ -1,0 +1,72 @@
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Abir Hbecha\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+D:\.NET2022-2023\GestionAirport\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+D:\.NET2022-2023\GestionAirport\AirportManagement-séance5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+D:\.NET 23-24\Séance6-Les annotations\AirportManagement-Porteuse+heritage\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
