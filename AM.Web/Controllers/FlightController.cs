@@ -1,8 +1,10 @@
 ﻿using AM.ApplicationCore.Domain;
 using AM.ApplicationCore.Interfaces;
 using AM.ApplicationCore.Services;
+using AM.Infrastructure;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace AM.Web.Controllers
 {
@@ -13,15 +15,25 @@ namespace AM.Web.Controllers
 
         //1-  creation de l'instance ServiceFlight
         IServiceFlight serviceFlight;
-        //2 injection par constructeur
-        public FlightController(IServiceFlight serviceFlight)
+        IServicePlane servicePlane;
+
+        public FlightController(IServiceFlight serviceFlight, IServicePlane servicePlane)
         {
             this.serviceFlight = serviceFlight;
+            this.servicePlane = servicePlane;
         }
 
-        public ActionResult Index()
+        //2 injection par constructeur
+
+        public ActionResult Index(DateTime? dateDepart)
         {
-            return View(serviceFlight.GetAll());
+            if (dateDepart == null)
+
+                return View(serviceFlight.GetAll());
+
+            else
+                return View(serviceFlight.GetMany(p => p.FlightDate.Equals(dateDepart)));
+            
         }
 
         // GET: FlightController/Details/5
@@ -33,6 +45,7 @@ namespace AM.Web.Controllers
         // GET: FlightController/Create
         public ActionResult Create()
         {
+            ViewBag.PlaneList = new SelectList(servicePlane.GetAll(), "PlaneId", "Capacity");
             return View();
         }
 

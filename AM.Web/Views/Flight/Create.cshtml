@@ -3,7 +3,15 @@
 @{
     ViewData["Title"] = "Create";
 }
-
+@*    Recherche 
+ *@
+<form asp-action="index">
+<fieldset>
+<legend> Recherche</legend>
+Saisir une date de départ : <input type="date" name="dateDepart" />
+<input type="submit" value="Serach" />
+</fieldset>
+</form>
 <h1>Create</h1>
 
 <h4>Flight</h4>
@@ -49,7 +57,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="PlaneFK" class="control-label"></label>
-                <input asp-for="PlaneFK" class="form-control" />
+                <select asp-for="PlaneFK" class="form-control"  asp-items="ViewBag.PlaneList"></select>
                 <span asp-validation-for="PlaneFK" class="text-danger"></span>
             </div>
             <div class="form-group">

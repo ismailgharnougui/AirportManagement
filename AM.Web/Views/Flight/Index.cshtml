@@ -34,7 +34,7 @@
                 @Html.DisplayNameFor(model => model.Destination)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.PlaneFK)
+                @Html.DisplayNameFor(model => model.Plane.ManufactureDate)
             </th>
             <th></th>
         </tr>
@@ -67,7 +67,7 @@
                         @Html.DisplayFor(modelItem => item.Destination)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => item.PlaneFK)
+                        @Html.DisplayFor(modelItem => item.Plane.ManufactureDate)
                     </td>
                     <td>
                         @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
