@@ -1,4 +1,5 @@
-﻿using AM.ApplicationCore.Interfaces;
+﻿using AM.ApplicationCore.Domain;
+using AM.ApplicationCore.Interfaces;
 using AM.Infrastructure;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -42,10 +43,12 @@ namespace AM.Web.Controllers
         // POST: PlaneController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(Plane collection)
         {
             try
             {
+                servicePlane.Add(collection);
+                servicePlane.Commit();
                 return RedirectToAction(nameof(Index));
             }
             catch

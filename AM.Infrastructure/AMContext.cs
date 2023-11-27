@@ -23,7 +23,7 @@ namespace AM.Infrastructure
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Data Source=ISMAEL\SQLEXPRESS01;
- Initial Catalog=AirportM-4ERPBI1;Integrated Security=true;
+ Initial Catalog=AirportM-4-ERP-BI1;Integrated Security=true;
  User ID=ISMAEL  ; Password=ismael150  ;TrustServerCertificate=True;");
             base.OnConfiguring(optionsBuilder);
         }
