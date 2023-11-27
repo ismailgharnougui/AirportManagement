@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ismae\OneDrive\Bureau\AirportManagement+Patrons+\AirportManagement\AM.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ismae/OneDrive/Bureau/AirportManagement+Patrons+/AirportManagement/AM.Web/Views/Flight/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ismae/OneDrive/Bureau/AirportManagement+Patrons+/AirportManagement/AM.Web/Views/Flight/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

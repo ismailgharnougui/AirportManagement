@@ -12,15 +12,17 @@
     <div class="col-md-4">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
+          @*   <div class="form-group">
                 <label asp-for="PlaneId" class="control-label"></label>
                 <input asp-for="PlaneId" class="form-control" />
                 <span asp-validation-for="PlaneId" class="text-danger"></span>
-            </div>
+            </div> *@
             <div class="form-group">
                 <label asp-for="PlaneType" class="control-label"></label>
-                <input asp-for="PlaneType" class="form-control" />
-                <span asp-validation-for="PlaneType" class="text-danger"></span>
+                 <select asp-for="PlaneType" class="form-control"  asp-items="Html.GetEnumSelectList<AM.ApplicationCore.Domain.PlaneType>()">
+                     
+                 </select> 
+                 <span asp-validation-for="PlaneType" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ManufactureDate" class="control-label"></label>
